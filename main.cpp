@@ -4,7 +4,7 @@
 #include <vector>
 #include <cmath>
 #include <chrono>
-//#include <thread>
+#include <thread>
 
 // Перечисление для типа звука
 enum class SoundType {
